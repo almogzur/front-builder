@@ -3,6 +3,7 @@
 function AdminPage() {
     return (
        <>
+       admin
     </>  
     );
 }

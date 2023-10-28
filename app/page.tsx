@@ -1,14 +1,12 @@
 import Image from 'next/image'
-import Head from 'next/head'
-import NavigationBar from 'components/NavigationBar'
+import NavigationBar from 'app/globalcomponents/NavigationBar'
 
 
 export default function HomePage() {
 
   return (
      <>
-     <NavigationBar/>
-     nav
+     MainPage     
      </>
   )
 }
